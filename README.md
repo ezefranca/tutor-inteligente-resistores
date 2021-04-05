@@ -16,6 +16,7 @@
 ![](https://github.com/ezefranca/tutor-inteligente-resistores/blob/main/print.png)
 
 **Autor**: Ezequiel França  <br>
+**BNCC**: EF08CI02
 
 ## Repositórios
 
